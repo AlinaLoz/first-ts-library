@@ -1,0 +1,22 @@
+{
+  "name": "cpypto-apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./build/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AlinaLoz/first-ts-library.git"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "Lozita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlinaLoz/first-ts-library/issues"
+  },
+  "homepage": "https://github.com/AlinaLoz/first-ts-library#readme"
+}
