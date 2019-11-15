@@ -1,22 +1,24 @@
 {
-  "name": "cpypto-apis",
+  "name": "cryptoapilib",
   "version": "1.0.0",
   "description": "",
-  "main": "./build/src/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/AlinaLoz/first-ts-library.git"
+    "url": "git+https://github.com/AlinaLoz/first-ts-library.git"
   },
-  "keywords": [
-    "ts"
-  ],
-  "author": "Lozita",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/AlinaLoz/first-ts-library/issues"
   },
-  "homepage": "https://github.com/AlinaLoz/first-ts-library#readme"
+  "homepage": "https://github.com/AlinaLoz/first-ts-library#readme",
+  "dependencies": {
+    "@types/socket.io": "^2.1.4",
+    "@types/websocket": "^1.0.0",
+    "websocket": "^1.0.30"
+  }
 }
