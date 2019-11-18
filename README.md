@@ -19,7 +19,7 @@
     └── README.md
 
 
-###Example
+### Example
 ```
 import { Crypto } from 'cryptoapi';
 

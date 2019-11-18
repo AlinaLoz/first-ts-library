@@ -2,64 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27867774-afce-4a67-9f6b-c90908e9281f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prettier.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clients/apis/crypto.apis.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clients/apis/eth/eth.api.services/eth.address.api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clients/apis/eth/eth.api.services/eth.contract.api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clients/apis/eth/eth.api.services/eth.main.info.api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clients/apis/eth/eth.api.services/eth.notify.api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clients/apis/eth/eth.api.services/eth.raw.transaction.api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clients/apis/eth/eth.api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clients/events/crypto.events.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clients/events/eth/eth.events.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/events.constants.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/inversify.constants.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crypto.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/di.container.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dtos/event.dto.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/apis/apis.inteface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/apis/eth/eth.api.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/apis/eth/eth.api.services/eth.address.api.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/apis/eth/eth.api.services/eth.contract.api.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/apis/eth/eth.api.services/eth.main.info.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/apis/eth/eth.api.services/eth.notify.api.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/apis/eth/eth.api.services/eth.raw.transaction.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/events/eth/eth.events.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/events/events.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/src/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/src/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apis/eth/address.api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/crypto.interface.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apis/eth/contract.api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/errors/base.error.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apis/eth/eth.api.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apis/eth/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apis/eth/notify.api.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apis/eth/raw.transaction.api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/crypto.wrapper.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apis/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/apis/market/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cl.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clients/crypto.http.client.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clients/crypto.socket.client.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/connections/http.connection.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/connections/socket.connection.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/core/crypto.client.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/apis/eth.apis.inteface.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/apis/market.apis.inteface.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/clients/http.client.interface.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/clients/socket.client.interface.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/configs/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/connections/http.connection.interface.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/connections/socket.connection.interface.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/index.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -194,7 +137,7 @@
       <workItem from="1573799527162" duration="15532000" />
       <workItem from="1574060155003" duration="16213000" />
       <workItem from="1574077020486" duration="2010000" />
-      <workItem from="1574079045987" duration="7595000" />
+      <workItem from="1574079045987" duration="7672000" />
     </task>
     <servers />
   </component>
