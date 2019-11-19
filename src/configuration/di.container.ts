@@ -26,8 +26,6 @@ import { EthNotifyApi } from '../clients/eth.apis/eth.sub.apis/eth.notify.api';
 import { EthContractApi } from '../clients/eth.apis/eth.sub.apis/eth.contract.api';
 import { EthRawTransactionApi } from '../clients/eth.apis/eth.sub.apis/eth.raw.transaction.api';
 
-
-
 const diContainer = new Container();
 
 /**
