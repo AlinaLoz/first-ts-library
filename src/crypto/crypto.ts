@@ -1,5 +1,5 @@
 import 'reflect-metadata';
-import { inject, injectable, injectProperty } from 'inversify';
+import { inject, injectable } from 'inversify';
 
 import { TYPES_DEPENDENCIES } from '../constants/inversify.constants';
 
